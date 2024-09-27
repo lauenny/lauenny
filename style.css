@@ -20,7 +20,7 @@ button {
 }
 
 .passo.ativo {
-    display:block;
+    display: block;
 }
 
 main {
@@ -29,7 +29,7 @@ main {
 }
 
 img {
-    max-width: 90%;
+    max-width: 30%;
 }
 
 
@@ -93,12 +93,4 @@ img {
 
 
 
-]
-
-
-
-
-
-
-
-]
+]]
